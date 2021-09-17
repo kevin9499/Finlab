@@ -1,1 +1,4 @@
 /mysql/binlog.000005
+/mysql/performance_schema/
+/mysql/#innodb_temp/
+/mysql/mysql/
