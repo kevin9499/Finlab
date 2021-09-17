@@ -1,5 +1,5 @@
 # FINLAB
-
+web app based on symfony and react
 
 ## Installation Symfony API
 
@@ -12,4 +12,9 @@ $ composer install
 
 ```bash
 $ npm install
+```
+## Lancement DOCKER
+
+```bash
+$ docker-compose -up -d
 ```
